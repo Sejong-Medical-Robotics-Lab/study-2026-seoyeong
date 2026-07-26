@@ -26,6 +26,7 @@ setup(
         'console_scripts': [
 		 'greeter = my_first_pkg.greeter:main',
 		'replier = my_first_pkg.replier:main',
+		'driver = my_first_pkg.driver:main',
         ],
     },
 )
